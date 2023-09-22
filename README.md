@@ -69,8 +69,8 @@ Contributions are welcome! If you have any suggestions, bug reports, or would li
 
 5. Create a pull request on the original repository.
 
+Remember to replace `"feature-name"` with a descriptive branch name when creating contributions.
+
 ## License
 
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for both personal and commercial purposes. See the LICENSE file for more details.
-
-Remember to replace `"feature-name"` with a descriptive branch name when creating contributions.
