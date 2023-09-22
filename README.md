@@ -35,7 +35,7 @@ Follow these steps to get started with the Python Factorial Calculator:
 
 1. Clone this repository to your local machine:
 
->> git clone https://github.com/yourusername/python-factorial-calculator.git
+>> git clone https://github.com/abdullahguch/python-factorial-calculator.git
 
 2. Install Python (if not already installed). You can download it from python.org.
 
@@ -73,4 +73,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or would li
 
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for both personal and commercial purposes. See the LICENSE file for more details.
 
-Remember to replace `"yourusername"` with your actual GitHub username and `"feature-name"` with a descriptive branch name when creating contributions. Customize the README with additional information or sections specific to your project as needed.
+Remember to replace `"feature-name"` with a descriptive branch name when creating contributions.
