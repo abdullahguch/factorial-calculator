@@ -1,4 +1,4 @@
-# Python Factorial Calculator
+# Factorial Calculator
 
 A simple Python script that calculates the factorial of a non-negative integer.
 
@@ -35,7 +35,7 @@ Follow these steps to get started with the Python Factorial Calculator:
 
 1. Clone this repository to your local machine:
 
->> git clone https://github.com/abdullahguch/python-factorial-calculator.git
+>> git clone https://github.com/abdullahguch/factorial-calculator.git
 
 2. Install Python (if not already installed). You can download it from python.org.
 
